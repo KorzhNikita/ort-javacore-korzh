@@ -6,7 +6,7 @@ public class Rhombus {
 		final char s = '*';
 		final char empty = ' ';
 		int length = 6;
-		System.out.println("Length =  " + length);
+		System.out.println("Length = " + length);
 		for (int i = 1; i <= length * 2 - 1; ++i) {
 			for (int j = 1; j < length * 2 - 1; ++j) {
 				// gorizont po centry
